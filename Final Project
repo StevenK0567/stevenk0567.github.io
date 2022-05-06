@@ -1,0 +1,23 @@
+!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" href="style4.css">
+        <meta charset="utf-8">
+        <title>HTML: Steven Kernick Portfolio</title>
+          </head>
+    <body>
+        <h1> Final Project</h1>
+         
+<br> <p class="p1"> <strong>This is my Final Project for my CSC106 course at the University of Rhode Island. This game is called "Wolfy". Wolfy is a game if Dinorun, <br>
+Geometry Dash, and Flappy Bird had a kid. This game is pretty straight foward. Avoid the obstacles and get to the end to win. Good Luck!
+       </strong> </p>
+        <table>
+<tr>
+<td><a href="https://stevenk0567.github.io/index.html"><img src="https://github.com/StevenK0567/stevenk0567.github.io/blob/main/Home.png?raw=true"></a></td>
+<td><a href="https://stevenk0567.github.io/about.html"><img src="https://github.com/StevenK0567/stevenk0567.github.io/blob/main/about.png?raw=true"></a></td>
+<td><a href="https://stevenk0567.github.io/javascripts.html"><img src="https://github.com/StevenK0567/stevenk0567.github.io/blob/main/javascripts.png?raw=true"></a></td>
+<td><a href="https://github.com/StevenK0567/stevenk0567.github.io/blob/main/Final%20Project%20img.png?raw=true"></a></td>
+    </tr>
+    </table>
+    </body>
+</html>
